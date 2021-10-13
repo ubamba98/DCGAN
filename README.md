@@ -1,5 +1,5 @@
 # DCGAN
-Pytorch implementation of DCGAN and trained on Cat Dataset
+Pytorch implementation of DCGAN and trained on "Cat" dataset.
 
 * Dataset - [link](https://www.kaggle.com/crawford/cat-dataset)
 
